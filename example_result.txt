@@ -1,0 +1,75 @@
+Starting stage...
+Second 1... Actual rps: 49
+Second 2... Actual rps: 74
+Second 3... Actual rps: 10
+Second 4... Actual rps: 12
+Second 5... Actual rps: 15
+Second 6... Actual rps: 57
+Second 7... Actual rps: 44
+Second 8... Actual rps: 23
+Second 9... Actual rps: 20
+Second 10... Actual rps: 10
+STAGE 0, REPEAT 0, STATS:
+	#REQUESTS: 314
+	%SUCCESS: 68.152866, %TIMEOUTS: 0.000000, %FAILURES: 31.847134
+AVG TIME: 0.5482340823313233
+Starting stage...
+Second 1... Actual rps: 100
+Second 2... Actual rps: 100
+Second 3... Actual rps: 101
+Second 4... Actual rps: 101
+Second 5... Actual rps: 100
+Second 6... Actual rps: 100
+Second 7... Actual rps: 100
+Second 8... Actual rps: 100
+Second 9... Actual rps: 101
+Second 10... Actual rps: 101
+STAGE 1, REPEAT 0, STATS:
+	#REQUESTS: 1004
+	%SUCCESS: 62.749004, %TIMEOUTS: 0.000000, %FAILURES: 37.250996
+AVG TIME: 0.5454610275082379
+Starting stage...
+Second 1... Actual rps: 100
+Second 2... Actual rps: 101
+Second 3... Actual rps: 101
+Second 4... Actual rps: 100
+Second 5... Actual rps: 100
+Second 6... Actual rps: 101
+Second 7... Actual rps: 101
+Second 8... Actual rps: 100
+Second 9... Actual rps: 101
+Second 10... Actual rps: 101
+STAGE 1, REPEAT 1, STATS:
+	#REQUESTS: 1006
+	%SUCCESS: 63.518887, %TIMEOUTS: 0.000000, %FAILURES: 36.481113
+AVG TIME: 0.6478851166207558
+Starting stage...
+Second 1... Actual rps: 100
+Second 2... Actual rps: 100
+Second 3... Actual rps: 101
+Second 4... Actual rps: 100
+Second 5... Actual rps: 100
+Second 6... Actual rps: 101
+Second 7... Actual rps: 101
+Second 8... Actual rps: 100
+Second 9... Actual rps: 100
+Second 10... Actual rps: 100
+STAGE 1, REPEAT 2, STATS:
+	#REQUESTS: 1003
+	%SUCCESS: 63.210369, %TIMEOUTS: 0.000000, %FAILURES: 36.789631
+AVG TIME: 0.5819735855072112
+Starting stage...
+Second 1... Actual rps: 56
+Second 2... Actual rps: 67
+Second 3... Actual rps: 68
+Second 4... Actual rps: 91
+Second 5... Actual rps: 65
+Second 6... Actual rps: 99
+Second 7... Actual rps: 59
+Second 8... Actual rps: 28
+Second 9... Actual rps: 81
+Second 10... Actual rps: 36
+STAGE 2, REPEAT 0, STATS:
+	#REQUESTS: 650
+	%SUCCESS: 63.846154, %TIMEOUTS: 0.000000, %FAILURES: 36.153846
+AVG TIME: 0.5459156887347881

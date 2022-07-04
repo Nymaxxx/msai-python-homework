@@ -1,0 +1,40 @@
+[
+    {
+        "requests": [
+            {
+                "method": "GET",
+                "url": "https://google.com/",
+                "headers": {}
+            },
+            {
+                "method": "POST",
+                "url": "https://httpbin.org/post",
+                "headers": {"a": "b"},
+                "body": "{\"c\": \"d\"}"
+            }
+        ],
+        "stages": [
+            {
+                "timeout": 5,
+                "duration": 10,
+                "rps_from": 1,
+                "rps_to": 100,
+                "repeats": 1
+            },
+            {
+                "timeout": 10,
+                "duration": 10,
+                "rps_from": 100,
+                "rps_to": 100,
+                "repeats": 3
+            },
+            {
+                "timeout": 5,
+                "duration": 10,
+                "rps_from": 100,
+                "rps_to": 10,
+                "repeats": 1
+            }
+        ]
+    }
+]
