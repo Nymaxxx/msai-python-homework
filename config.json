@@ -1,0 +1,20 @@
+[
+    {
+        "requests": [
+            {
+                "method": "GET",
+                "url": "http://localhost:8000/wait",
+                "headers": {}
+            }
+        ],
+        "stages": [
+            {
+                "timeout": 10,
+                "duration": 10,
+                "rps_from": 700,
+                "rps_to": 1000,
+                "repeats": 3
+            }
+        ]
+    }
+]
