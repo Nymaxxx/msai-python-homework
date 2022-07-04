@@ -1,0 +1,45 @@
+Starting stage...
+Second 1... Actual rps: 776
+Second 2... Actual rps: 830
+Second 3... Actual rps: 780
+Second 4... Actual rps: 953
+Second 5... Actual rps: 919
+Second 6... Actual rps: 764
+Second 7... Actual rps: 856
+Second 8... Actual rps: 762
+Second 9... Actual rps: 826
+Second 10... Actual rps: 997
+STAGE 0, REPEAT 0, STATS:
+	#REQUESTS: 8463
+	%SUCCESS: 100.000000, %TIMEOUTS: 0.000000, %FAILURES: 0.000000
+AVG TIME: 4.686442279962168
+Starting stage...
+Second 1... Actual rps: 818
+Second 2... Actual rps: 881
+Second 3... Actual rps: 701
+Second 4... Actual rps: 845
+Second 5... Actual rps: 931
+Second 6... Actual rps: 824
+Second 7... Actual rps: 739
+Second 8... Actual rps: 723
+Second 9... Actual rps: 833
+Second 10... Actual rps: 764
+STAGE 0, REPEAT 1, STATS:
+	#REQUESTS: 8059
+	%SUCCESS: 100.000000, %TIMEOUTS: 0.000000, %FAILURES: 0.000000
+AVG TIME: 4.454873220458163
+Starting stage...
+Second 1... Actual rps: 965
+Second 2... Actual rps: 895
+Second 3... Actual rps: 988
+Second 4... Actual rps: 707
+Second 5... Actual rps: 958
+Second 6... Actual rps: 992
+Second 7... Actual rps: 965
+Second 8... Actual rps: 849
+Second 9... Actual rps: 839
+Second 10... Actual rps: 987
+STAGE 0, REPEAT 2, STATS:
+	#REQUESTS: 9145
+	%SUCCESS: 100.000000, %TIMEOUTS: 0.000000, %FAILURES: 0.000000
+AVG TIME: 5.041867018684525
